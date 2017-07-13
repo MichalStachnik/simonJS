@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#app{
+    height: 500px;
+    width: 700px;
+    margin: 20vh auto;
+}
+#buttons{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+}
+#one, #two, #three, #four{
+    width: 50%;
+}
+#controls{
+    background: #ecfffa;
+    width: 25%;
+    position: absolute;
+    left: 310px;
+    bottom: 240px;
+}
+#one{
+    background: #4cb297;
+}
+#two{
+    background: #ffc2af;
+}
+#three{
+    background: #ff744a;
+}
+#four{
+    background: #b26c57;
+}
