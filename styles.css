@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+html{
+    background: dimgray;
+}
 #app{
     height: 500px;
     width: 700px;
@@ -18,8 +21,9 @@
 #controls{
     background: #ecfffa;
     width: 25%;
+    height: 20%;
     position: absolute;
-    left: 310px;
+    left: 37.5%;
     bottom: 240px;
 }
 #one{
@@ -33,4 +37,7 @@
 }
 #four{
     background: #b26c57;
+}
+div .active{
+    background: antiquewhite !important;
 }
