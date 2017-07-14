@@ -4,6 +4,7 @@
 }
 html{
     background: dimgray;
+    /*background: white;*/
 }
 #app{
     height: 500px;
@@ -39,5 +40,5 @@ html{
     background: #b26c57;
 }
 div .active{
-    background: antiquewhite !important;
+    background: white !important;
 }
