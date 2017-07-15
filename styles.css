@@ -4,7 +4,7 @@
 }
 html{
     background: dimgray;
-    /*background: white;*/
+    background: black;
 }
 #app{
     height: 500px;
@@ -26,18 +26,23 @@ html{
     position: absolute;
     left: 37.5%;
     bottom: 240px;
+    background: #4F4F4F;
 }
 #one{
     background: #4cb297;
+    background: #6289C8;
 }
 #two{
     background: #ffc2af;
+    background: #5AC5AD;
 }
 #three{
     background: #ff744a;
+    background: #FFC947;
 }
 #four{
     background: #b26c57;
+    background: #EB4A42;
 }
 div .active{
     background: white !important;
