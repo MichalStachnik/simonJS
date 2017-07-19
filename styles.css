@@ -18,6 +18,7 @@ html{
 }
 #one, #two, #three, #four{
     width: 50%;
+    cursor: pointer;
 }
 #controls{
     background: #ecfffa;
@@ -29,21 +30,20 @@ html{
     background: #4F4F4F;
 }
 #one{
-    background: #4cb297;
     background: #6289C8;
 }
 #two{
-    background: #ffc2af;
     background: #5AC5AD;
 }
 #three{
-    background: #ff744a;
     background: #FFC947;
 }
 #four{
-    background: #b26c57;
     background: #EB4A42;
 }
 div .active{
     background: white !important;
+}
+button{
+    cursor: pointer;
 }
